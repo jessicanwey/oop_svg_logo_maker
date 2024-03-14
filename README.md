@@ -16,7 +16,8 @@
 
   ## Usage 
   Video demo: https://app.screencastify.com/v3/watch/BVffoagSvfNNS6vPNu2D
-  
+
+  Example SVG Logo:
   ![logo](https://github.com/jessicanwey/oop_svg_logo_maker/assets/145372607/77d44fe8-b8e2-46dc-8c24-9c34471c210e)
 
   ## Contributing
